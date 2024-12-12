@@ -1,15 +1,13 @@
 {
   "name": "u-ran",
   "version": "0.2.5",
-  "homepage": "https://cv.u-ran.com",
+  "homepage": "https://resume.u-ran.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d out"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.2.6",
@@ -23,7 +21,6 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "eslint-config-prettier": "^9.1.0",
-    "gh-pages": "^6.1.1",
     "import-sort-style-module": "^6.0.0",
     "postcss": "^8",
     "prettier": "3.3.3",
