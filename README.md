@@ -1,41 +1,18 @@
 # CV
 
-## TODO
-
-- 優化文字
-  - 刪除 Proficient, Intermediate
-  - 刪除 self-learning
-  - 增加 from legacy code
-  - website 有名字
-  - c++
-- 增加工作經歷
-
-## ICON 來源
+## ICON
 
 - [Github, LinkedIn](https://icons8.com/icons/set/github-linkedin-stackoverflow-twitter)
-- [Email](https://www.iconpacks.net/free-icon/mail-5714.html) (需要自行調整留白大小)
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+A git commit pushed to the `main` branch will automatically deploy the application to Vercel.
 
 ## Learn More
 
