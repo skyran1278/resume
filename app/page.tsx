@@ -39,7 +39,6 @@ export default function Home() {
             <span className="rounded bg-gray-200 px-2 py-1">C++</span>
             <span className="rounded bg-gray-200 px-2 py-1">TypeScript</span>
             <span className="rounded bg-gray-200 px-2 py-1">Python</span>
-            <span className="rounded bg-gray-200 px-2 py-1">RESTful APIs</span>
             <span className="rounded bg-gray-200 px-2 py-1">GraphQL</span>
             <span className="rounded bg-gray-200 px-2 py-1">Message Queue</span>
             <span className="rounded bg-gray-200 px-2 py-1">NestJS</span>
@@ -48,6 +47,8 @@ export default function Home() {
             <span className="rounded bg-gray-200 px-2 py-1">MongoDB</span>
             <span className="rounded bg-gray-200 px-2 py-1">AWS</span>
             <span className="rounded bg-gray-200 px-2 py-1">React</span>
+            <span className="rounded bg-gray-200 px-2 py-1">Node.js</span>
+            <span className="rounded bg-gray-200 px-2 py-1">RESTful APIs</span>
             <span className="rounded bg-gray-200 px-2 py-1">Jest</span>
           </div>
         </section>
