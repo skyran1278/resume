@@ -59,7 +59,7 @@ export default function Home() {
           <div className="mb-6">
             <h3 className="text-lg font-medium">4i Tech</h3>
             <div className="text-sm text-gray-600">
-              <div>Backend Developer</div>
+              <div>Senior Software Engineer</div>
               <div>Jun 2023 - Present</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -94,7 +94,7 @@ export default function Home() {
           <div className="mb-6">
             <h3 className="text-lg font-medium">RCAD Inc.</h3>
             <div className="text-sm text-gray-600">
-              <div>Software Developer</div>
+              <div>Senior Software Engineer</div>
               <div>Aug 2020 - Jun 2023</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -117,7 +117,7 @@ export default function Home() {
           <div className="mb-6">
             <h3 className="text-lg font-medium">Elements Structure Inc.</h3>
             <div className="text-sm text-gray-600">
-              <div>Full Stack Web Developer</div>
+              <div>Full Stack Engineer</div>
               <div>Aug 2019 - Aug 2020</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -146,7 +146,7 @@ export default function Home() {
           <div>
             <h3 className="text-lg font-medium">Elements Structure Inc.</h3>
             <div className="text-sm text-gray-600">
-              <div>Full Stack Web Developer (Internship)</div>
+              <div>Full Stack Engineer (Internship)</div>
               <div>Jun 2016 - Jul 2019</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -179,9 +179,17 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Thesis: &quot;Feasibility of Beam Reinforcement Optimization for
-                Practical Application&quot; - developed algorithms for
-                structural optimization.
+                Thesis:{' '}
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://www.airitilibrary.com/Article/Detail/U0001-2807201900030400"
+                  className="text-blue-600 hover:underline"
+                >
+                  &quot;Feasibility of Beam Reinforcement Optimization for
+                  Practical Application&quot;
+                </a>{' '}
+                - developed algorithms for structural optimization.
               </li>
             </ul>
           </div>
