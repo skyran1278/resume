@@ -37,18 +37,18 @@ export default function Home() {
           <h2 className="mb-4 text-2xl font-bold">Skills</h2>
           <div className="flex flex-wrap gap-2 text-sm">
             <span className="rounded bg-gray-200 px-2 py-1">C++</span>
-            <span className="rounded bg-gray-200 px-2 py-1">Python</span>
             <span className="rounded bg-gray-200 px-2 py-1">TypeScript</span>
+            <span className="rounded bg-gray-200 px-2 py-1">Python</span>
             <span className="rounded bg-gray-200 px-2 py-1">RESTful APIs</span>
             <span className="rounded bg-gray-200 px-2 py-1">GraphQL</span>
             <span className="rounded bg-gray-200 px-2 py-1">Message Queue</span>
-            <span className="rounded bg-gray-200 px-2 py-1">React</span>
-            <span className="rounded bg-gray-200 px-2 py-1">Redux</span>
             <span className="rounded bg-gray-200 px-2 py-1">NestJS</span>
             <span className="rounded bg-gray-200 px-2 py-1">TypeORM</span>
             <span className="rounded bg-gray-200 px-2 py-1">PostgreSQL</span>
             <span className="rounded bg-gray-200 px-2 py-1">MongoDB</span>
             <span className="rounded bg-gray-200 px-2 py-1">AWS</span>
+            <span className="rounded bg-gray-200 px-2 py-1">React</span>
+            <span className="rounded bg-gray-200 px-2 py-1">Jest</span>
           </div>
         </section>
 
@@ -66,13 +66,26 @@ export default function Home() {
                 Developed business process management tools for the media
                 industry using TypeScript, GraphQL, and PostgreSQL.
               </li>
-              <li>Built scalable cloud infrastructure using AWS CDK.</li>
               <li>
-                Enhanced service communication with BullMQ and Redis for
-                efficient queue management.
+                Built application architecture utilizing Message Queue for
+                service-to-service communication.
+              </li>
+              <li>
+                Contributed code and issue resolutions to open-source projects
+                like TypeORM, strengthening the reliability of our production
+                stack.
+              </li>
+              <li>
+                Developed a real-time video processing application using OpenCV
+                and Agora.
               </li>
               <li>
                 Implemented role-based and claim-based authorization mechanisms.
+              </li>
+              <li>Built scalable cloud infrastructure using AWS CDK.</li>
+              <li>
+                Using TensorFlow to build predictive models for image
+                recognition.
               </li>
             </ul>
           </div>
@@ -195,7 +208,7 @@ export default function Home() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://twitter.com/JanHovancik/status/1572480516540223490?s=20&t=00eO2C44EZwpQWQV_abeLw"
+                href="https://www.raycast.com/u-ran/stretchly"
                 className="text-blue-600 hover:underline"
               >
                 stretchly-raycast
