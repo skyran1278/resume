@@ -49,6 +49,7 @@ export default function Home() {
             <span className="rounded bg-gray-200 px-2 py-1">React</span>
             <span className="rounded bg-gray-200 px-2 py-1">Node.js</span>
             <span className="rounded bg-gray-200 px-2 py-1">RESTful APIs</span>
+            <span className="rounded bg-gray-200 px-2 py-1">Websocket</span>
             <span className="rounded bg-gray-200 px-2 py-1">Jest</span>
           </div>
         </section>
@@ -123,7 +124,7 @@ export default function Home() {
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
                 Created a full-featured member management system with React,
-                Redux, and MongoDB.
+                Redux, Websocket and MongoDB.
               </li>
               <li>
                 Developed and integrated multiple notification channels (email,
@@ -151,8 +152,8 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Developed an on-site management system using a NoSQL cloud
-                database and OAuth 2.0 for authentication.
+                Worked with RCAD Inc. to developed an on-site management system
+                using a NoSQL cloud database and OAuth 2.0 for authentication.
               </li>
               <li>
                 Optimized steel structure members using clustering algorithms.
@@ -162,7 +163,7 @@ export default function Home() {
               </li>
               <li>
                 Optimized angle radius calculations, increasing speed by 400
-                times.
+                times faster than the previous version.
               </li>
             </ul>
           </div>
