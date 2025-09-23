@@ -4,11 +4,11 @@ export default function Home() {
       <div className="mx-auto max-w-3xl rounded-lg bg-white p-6 shadow-lg">
         <header className="mb-8">
           <div className="text-center">
-            <h1 className="mb-2 text-3xl font-bold">You-Ran Nai</h1>
+            <h1 className="mb-2 text-3xl font-bold">You-Ran Nai (Paul)</h1>
           </div>
           <div className="text-center text-sm text-gray-600">
             <div>Phone: (+886) 920-785-026</div>
-            <div>Email: nai@u-ran.com</div>
+            <div>Email: cv@u-ran.com</div>
             <div>
               GitHub:{' '}
               <a
@@ -26,7 +26,7 @@ export default function Home() {
         <section className="mb-8">
           <h2 className="mb-4 text-2xl font-bold">Summary</h2>
           <p className="leading-relaxed">
-            Experienced Software Developer with 6+ years in web, desktop, and
+            Experienced Software Developer with 9+ years in web, desktop, and
             cloud infrastructure development. Skilled in object-oriented design
             and system modernization, delivering high-performance and scalable
             solutions.
@@ -66,28 +66,23 @@ export default function Home() {
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
                 Developed business process management tools for the media
-                industry using TypeScript, GraphQL, and PostgreSQL.
+                industry using TypeScript, GraphQL, and PostgreSQL, including
+                role-based and claim-based authorization.
               </li>
               <li>
-                Built application architecture utilizing Message Queue for
-                service-to-service communication.
+                Architected service-to-service communication using Message
+                Queues for scalable, reliable workflows.
               </li>
               <li>
-                Contributed code and issue resolutions to open-source projects
-                like TypeORM, strengthening the reliability of our production
-                stack.
+                Developed real-time and predictive video/image processing
+                applications using OpenCV, Agora, and TensorFlow.
               </li>
               <li>
-                Developed a real-time video processing application using OpenCV
-                and Agora.
+                Implemented scalable cloud infrastructure on AWS using CDK.
               </li>
               <li>
-                Implemented role-based and claim-based authorization mechanisms.
-              </li>
-              <li>Built scalable cloud infrastructure using AWS CDK.</li>
-              <li>
-                Using TensorFlow to build predictive models for image
-                recognition.
+                Contributed to open-source projects like TypeORM, enhancing
+                production reliability.
               </li>
             </ul>
           </div>
@@ -100,17 +95,16 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Designed and developed 3D application modules using Visual C++
-                and MFC, applying object-oriented design principles.
+                Developed 3D application using Visual C++ and MFC following
+                object-oriented principles.
               </li>
               <li>
-                Reviewed academic papers and implemented polygon partition
-                algorithms, achieving performance improvements surpassing
-                open-source solutions.
+                Optimized polygon partition algorithms, surpassing open-source
+                performance benchmarks.
               </li>
-              <li>Migrated applications from multi-byte to Unicode.</li>
               <li>
-                Developed comprehensive integration tests for legacy systems.
+                Migrated legacy applications to Unicode and implemented robust
+                integration tests for system stability.
               </li>
             </ul>
           </div>
@@ -123,23 +117,17 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Created a full-featured member management system with React,
-                Redux, Websocket and MongoDB.
+                Developed a full-featured member management system using React,
+                Redux, WebSocket, and MongoDB with multi-channel notifications
+                (email, Line).
               </li>
               <li>
-                Developed and integrated multiple notification channels (email,
-                line).
+                Led migration to AWS auto-scaling infrastructure and implemented
+                multi-tenant architecture to support multiple clients.
               </li>
               <li>
-                Led the migration from a self-hosted Linux environment to an AWS
-                auto-scaling infrastructure.
-              </li>
-              <li>
-                Implemented a multi-tenant architecture to support multiple
-                clients within the infrastructure.
-              </li>
-              <li>
-                Integrated GCP Vision API with PyTorch for visual analytics.
+                Collaborated with NTU Labs to build visual analytics solutions
+                using GCP Vision API and PyTorch.
               </li>
             </ul>
           </div>
@@ -153,17 +141,15 @@ export default function Home() {
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
                 Worked with RCAD Inc. to developed an on-site management system
-                using a NoSQL cloud database and OAuth 2.0 for authentication.
+                using a NoSQL cloud database and OAuth 2.0.
               </li>
               <li>
-                Optimized steel structure members using clustering algorithms.
+                Optimized steel structure and SRC components using clustering,
+                Newton&apos;s method, and slide algorithms.
               </li>
               <li>
-                Designed SRC using Newton&apos;s method and a slide algorithm.
-              </li>
-              <li>
-                Optimized angle radius calculations, increasing speed by 400
-                times faster than the previous version.
+                Accelerated angle radius calculations by 400x, significantly
+                improving computational performance.
               </li>
             </ul>
           </div>
@@ -203,9 +189,7 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Awarded Gold Medal in CSX 2003 Website Database Programming
-                (used Azure, Node.js, and Express.js to build a website and
-                Chrome extension).
+                Awarded Gold Medal in CSX 2003 Website Database Programming.
               </li>
             </ul>
           </div>
@@ -234,8 +218,7 @@ export default function Home() {
               >
                 js-jsx-snippets
               </a>
-              : Built a VSCode extension for React/Redux in JavaScript with
-              Babel and ES7 syntax, achieving over 1M downloads.
+              : Built a VSCode extension achieving over 1.2M downloads.
             </li>
           </ul>
         </section>
