@@ -25,12 +25,14 @@ export default function Home() {
 
         <section className="mb-8">
           <h2 className="mb-4 text-2xl font-bold">Summary</h2>
-          <p className="leading-relaxed">
-            Experienced Software Developer with 9+ years in web, desktop, and
-            cloud infrastructure development. Skilled in object-oriented design
-            and system modernization, delivering high-performance and scalable
-            solutions.
-          </p>
+          <div className="space-y-3 leading-relaxed">
+            <p>
+              Senior Software Engineer with 9+ years bridging modern web
+              platforms, cloud infrastructure, and high-performance C++
+              applications. Blend product thinking with deep technical ownership
+              to ship reliable systems end to end.
+            </p>
+          </div>
         </section>
 
         <section className="mb-8">
@@ -65,24 +67,27 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Developed business process management tools for the media
-                industry using TypeScript, GraphQL, and PostgreSQL, including
-                role-based and claim-based authorization.
+                Delivered a business process management suite for media
+                operations with NestJS, GraphQL, and PostgreSQL, introducing
+                role- and claim-based authorization that protects sensitive
+                editorial workflows.
               </li>
               <li>
-                Architected service-to-service communication using Message
-                Queues for scalable, reliable workflows.
+                Architected service-to-service communication via message queues
+                for scalable, reliable workflows.
               </li>
               <li>
-                Developed real-time and predictive video/image processing
-                applications using OpenCV, Agora, and TensorFlow.
+                Built real-time and predictive media processing pipelines with
+                OpenCV, Agora, and TensorFlow to improve streaming quality and
+                proactively detect issues.
               </li>
               <li>
-                Implemented scalable cloud infrastructure on AWS using CDK.
+                Codified AWS infrastructure with CDK, enabling repeatable
+                deployments and scalable environments for new clients.
               </li>
               <li>
-                Contributed to open-source projects like TypeORM, enhancing
-                production reliability.
+                Contributed to open-source projects like TypeORM and internal
+                libraries, raising stability across shared services.
               </li>
             </ul>
           </div>
@@ -95,16 +100,17 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Developed 3D application using Visual C++ and MFC following
-                object-oriented principles.
+                Engineered a 3D structural design application in Visual C++ and
+                MFC, applying SOLID principles to balance extensibility and
+                performance.
               </li>
               <li>
-                Optimized polygon partition algorithms, surpassing open-source
-                performance benchmarks.
+                Optimized polygon partition algorithms, outpacing leading
+                open-source implementations on complex geometry workloads.
               </li>
               <li>
-                Migrated legacy applications to Unicode and implemented robust
-                integration tests for system stability.
+                Migrated legacy codebases to Unicode and built a suite of
+                integration tests, eliminating regressions in global releases.
               </li>
             </ul>
           </div>
@@ -117,17 +123,18 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Developed a full-featured member management system using React,
-                Redux, WebSocket, and MongoDB with multi-channel notifications
-                (email, Line).
+                Launched a full-featured member management platform with React,
+                Redux, WebSocket, and MongoDB, delivering real-time
+                notifications across email and Line.
               </li>
               <li>
-                Led migration to AWS auto-scaling infrastructure and implemented
-                multi-tenant architecture to support multiple clients.
+                Led migration to auto-scaling AWS infrastructure and designed a
+                multi-tenant architecture that isolates client workloads.
               </li>
               <li>
-                Collaborated with NTU Labs to build visual analytics solutions
-                using GCP Vision API and PyTorch.
+                Partnered with NTU Labs to build visual analytics using GCP
+                Vision API and PyTorch, turning research insights into product
+                features.
               </li>
             </ul>
           </div>
@@ -140,16 +147,18 @@ export default function Home() {
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Worked with RCAD Inc. to developed an on-site management system
-                using a NoSQL cloud database and OAuth 2.0.
+                Co-developed an on-site management system with RCAD Inc. using a
+                NoSQL cloud database and OAuth 2.0, aligning contractor data in
+                real time.
               </li>
               <li>
-                Optimized steel structure and SRC components using clustering,
-                Newton&apos;s method, and slide algorithms.
+                Optimized steel structure and SRC components with clustering,
+                Newton&apos;s method, and slide algorithms to guide fabrication
+                decisions.
               </li>
               <li>
-                Accelerated angle radius calculations by 400x, significantly
-                improving computational performance.
+                Accelerated angle radius calculations by 400x, unlocking faster
+                simulations for engineering teams.
               </li>
             </ul>
           </div>
@@ -176,7 +185,8 @@ export default function Home() {
                   &quot;Feasibility of Beam Reinforcement Optimization for
                   Practical Application&quot;
                 </a>{' '}
-                - developed algorithms for structural optimization.
+                , focusing on algorithms for structural optimization applied to
+                real-world construction constraints.
               </li>
             </ul>
           </div>
@@ -207,7 +217,8 @@ export default function Home() {
               >
                 stretchly-raycast
               </a>
-              : Built a Raycast extension using TypeScript.
+              : Built and maintain a Raycast extension in TypeScript that brings
+              pomodoro techniques into developer workflows.
             </li>
             <li>
               <a
@@ -218,7 +229,8 @@ export default function Home() {
               >
                 js-jsx-snippets
               </a>
-              : Built a VSCode extension achieving over 1.2M downloads.
+              : Authored a VSCode extension adopted by 1.2M+ developers, making
+              React and JavaScript scaffolding faster.
             </li>
           </ul>
         </section>
