@@ -77,11 +77,6 @@ export default function Home() {
                 for scalable, reliable workflows.
               </li>
               <li>
-                Built real-time and predictive media processing pipelines with
-                OpenCV, Agora, and TensorFlow to improve streaming quality and
-                proactively detect issues.
-              </li>
-              <li>
                 Codified AWS infrastructure with CDK, enabling repeatable
                 deployments and scalable environments for new clients.
               </li>
