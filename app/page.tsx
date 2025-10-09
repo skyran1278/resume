@@ -60,9 +60,12 @@ export default function Home() {
           <h2 className="mb-4 text-2xl font-bold">Experiences</h2>
 
           <div className="mb-6">
-            <h3 className="text-lg font-medium">4i Tech</h3>
+            <h3 className="text-lg font-medium">Senior Software Engineer</h3>
             <div className="text-sm text-gray-600">
-              <div>Senior Software Engineer</div>
+              <div>
+                4i Tech - An international company specializing in custom
+                software development
+              </div>
               <div>Jun 2023 - Present</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -88,32 +91,40 @@ export default function Home() {
           </div>
 
           <div className="mb-6">
-            <h3 className="text-lg font-medium">RCAD Inc.</h3>
+            <h3 className="text-lg font-medium">Senior Software Engineer</h3>
             <div className="text-sm text-gray-600">
-              <div>Senior Software Engineer</div>
+              <div>
+                RCAD Inc. - A software company that provides 3D analysis tools
+                for structural engineering
+              </div>
               <div>Aug 2020 - Jun 2023</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                Engineered a 3D structural design application in Visual C++ and
-                MFC, applying SOLID principles to balance extensibility and
-                performance.
+                Engineered a high-performance 3D structural design application
+                in Visual C++ and MFC, implementing SOLID principles to balance
+                extensibility and performance.
               </li>
               <li>
-                Optimized polygon partition algorithms, outpacing leading
-                open-source implementations on complex geometry workloads.
+                Optimized polygon partition algorithms to achieve superior
+                performance compared to open-source implementations on complex
+                geometric computations.
               </li>
               <li>
-                Migrated legacy codebases to Unicode and built a suite of
-                integration tests, eliminating regressions in global releases.
+                Successfully migrated legacy codebases to Unicode and built a
+                suite of integration tests, eliminating regressions in global
+                releases.
               </li>
             </ul>
           </div>
 
           <div className="mb-6">
-            <h3 className="text-lg font-medium">Elements Structure Inc.</h3>
+            <h3 className="text-lg font-medium">Full Stack Engineer</h3>
             <div className="text-sm text-gray-600">
-              <div>Full Stack Engineer</div>
+              <div>
+                Elements Structure Inc. - A consulting company that specializes
+                in structural engineering
+              </div>
               <div>Aug 2019 - Aug 2020</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -135,9 +146,11 @@ export default function Home() {
           </div>
 
           <div>
-            <h3 className="text-lg font-medium">Elements Structure Inc.</h3>
+            <h3 className="text-lg font-medium">
+              Full Stack Engineer (Internship)
+            </h3>
             <div className="text-sm text-gray-600">
-              <div>Full Stack Engineer (Internship)</div>
+              <div>Elements Structure Inc.</div>
               <div>Jun 2016 - Jul 2019</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
@@ -152,8 +165,9 @@ export default function Home() {
                 decisions.
               </li>
               <li>
-                Accelerated angle radius calculations by 400x, unlocking faster
-                simulations for engineering teams.
+                Achieved 400x performance improvement in angle radius
+                calculations, significantly accelerating simulation capabilities
+                for engineering teams.
               </li>
             </ul>
           </div>
@@ -212,8 +226,8 @@ export default function Home() {
               >
                 stretchly-raycast
               </a>
-              : Built and maintain a Raycast extension in TypeScript that brings
-              pomodoro techniques into developer workflows.
+              : Built and maintain a Raycast extension in TypeScript that
+              integrates pomodoro techniques into developer workflows.
             </li>
             <li>
               <a
