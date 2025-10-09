@@ -87,6 +87,14 @@ export default function Home() {
                 Contributed to open-source projects like TypeORM and internal
                 libraries, raising stability across shared services.
               </li>
+              <li>
+                Developed a real-time video processing application using OpenCV
+                and Agora for drone startup.
+              </li>
+              <li>
+                Using TensorFlow to build predictive image recognition models
+                for a government relations initiative.
+              </li>
             </ul>
           </div>
 
