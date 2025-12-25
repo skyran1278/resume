@@ -111,9 +111,8 @@ export default function Home() {
                 geometric computations.
               </li>
               <li>
-                Successfully migrated legacy codebases to Unicode and built a
-                suite of integration tests, eliminating regressions in global
-                releases.
+                Migrated legacy codebases to Unicode and built a suite of
+                integration tests, eliminating regressions in global releases.
               </li>
             </ul>
           </div>
