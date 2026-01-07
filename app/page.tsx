@@ -66,7 +66,7 @@ export default function Home() {
                 4i Tech - An international company specializing in custom
                 software development
               </div>
-              <div>Jun 2023 - Present</div>
+              <div>Jun 2023 - Oct 2025</div>
             </div>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
